@@ -19,7 +19,7 @@ To practice correcting merge conflicts we're going to work in pairs, create and 
     > *NOTE 1: Make sure you're **inside** the right folder first!*
 
     ```console
-      git remote set-url origin https://github.com/YOUR-USERNAME/MyName-PartnerName-Portfolio-MergePractice.git
+      git remote set-url origin https://github.com/idominikbrame/idominikbrame-davidcastilllo-Portfolio-MergePractice.git
     ```
 
     > *NOTE 2: Be sure to change our `YOUR-USERNAME` with your actual GitHub username.*
