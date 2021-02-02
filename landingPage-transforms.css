@@ -1,11 +1,6 @@
-.clearfix li {
-  translate: all 300ms ease-in-out;
+
+.clearfix li:hover, .clearfix li:active {
+   transform: translate(1%,3%);
+   font-size: 20px;
 }
 
-.clearfix li:hover {
-  transform: scale(1.01)
-}
-
-.clearfix li:active {
-  font-size: 1.2rem;
-}
